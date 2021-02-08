@@ -1,0 +1,23 @@
+body {
+    height: 100%;
+    background-image: url("./world_card.jpg");
+    background-size: cover;
+    background-position: fixed;
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.flag{
+    width: 24px;
+    height: 16px;
+    margin-right: 16px;
+}
+
+.fas{
+margin-right: 6px;    
+
+}
+.card-body {
+    margin-bottom: 2px;
+}
+
